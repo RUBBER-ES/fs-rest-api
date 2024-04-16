@@ -26,6 +26,4 @@ Allows the proper owner settings for creating directories. More here https://nod
 ```js
 process.umask(0);
 ```
-#### TODO
-- Add tests
-- Modify middleware to work for Hapi, KOA, restify
+This is just a quick fork to add some required features so that we can use it to access the filesystem of the project. If you want to use this, just use the original
